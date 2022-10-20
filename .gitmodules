@@ -8,3 +8,8 @@
 	url = https://github.com/irinagain/dap
 	shallow = true
 	registered = true
+[submodule "iglu"]
+	path = iglu
+	url = https://github.com/irinagain/iglu
+	shallow = true
+	registered = true

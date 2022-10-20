@@ -2,5 +2,9 @@
   {
     "package": "DAP",
     "oncran": true
+  },
+  {
+    "package": "iglu",
+    "oncran": true
   }
 ]
