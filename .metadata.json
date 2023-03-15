@@ -6,5 +6,9 @@
   {
     "package": "iglu",
     "oncran": true
+  },
+  {
+    "package": "mixedCCA",
+    "oncran": true
   }
 ]

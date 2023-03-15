@@ -13,3 +13,8 @@
 	url = https://github.com/irinagain/iglu
 	shallow = true
 	registered = true
+[submodule "mixedCCA"]
+	path = mixedCCA
+	url = https://github.com/irinagain/mixedcca
+	shallow = true
+	registered = true
