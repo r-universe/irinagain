@@ -1,10 +1,10 @@
 [
   {
-    "package": "DAP",
+    "package": "iglu",
     "oncran": true
   },
   {
-    "package": "iglu",
+    "package": "DAP",
     "oncran": true
   }
 ]
