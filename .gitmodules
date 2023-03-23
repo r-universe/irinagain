@@ -13,6 +13,11 @@
 	url = https://github.com/irinagain/iglu
 	shallow = true
 	registered = true
+[submodule "MGSDA"]
+	path = MGSDA
+	url = https://github.com/cran/MGSDA
+	shallow = true
+	registered = true
 [submodule "mixedCCA"]
 	path = mixedCCA
 	url = https://github.com/irinagain/mixedcca
