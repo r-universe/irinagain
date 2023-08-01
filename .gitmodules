@@ -5,12 +5,12 @@
 [submodule "DAP"]
 	path = DAP
 	url = https://github.com/irinagain/dap
-[submodule "iglu"]
-	path = iglu
-	url = https://github.com/irinagain/iglu
 [submodule "MGSDA"]
 	path = MGSDA
 	url = https://github.com/cran/MGSDA
+[submodule "iglu"]
+	path = iglu
+	url = https://github.com/irinagain/iglu
 [submodule "mixedCCA"]
 	path = mixedCCA
 	url = https://github.com/irinagain/mixedcca
