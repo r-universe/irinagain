@@ -5,6 +5,9 @@
 [submodule "DAP"]
 	path = DAP
 	url = https://github.com/irinagain/dap
+[submodule "MGSDA"]
+	path = MGSDA
+	url = https://github.com/cran/MGSDA
 [submodule "iglu"]
 	path = iglu
 	url = https://github.com/irinagain/iglu
